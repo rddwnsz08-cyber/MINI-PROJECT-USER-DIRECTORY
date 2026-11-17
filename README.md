@@ -1,4 +1,4 @@
-# MINI PROJECT USER DIRECTORY
+# USER DIRECTORY
 
 Tugas Javascript Lanjutan - Desain dan Pemrograman Web
 
